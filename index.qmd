@@ -2,6 +2,10 @@
 title: "quarto5"
 ---
 
+BIO476
+
+LAB 7
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
